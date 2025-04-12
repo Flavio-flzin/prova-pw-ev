@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PROJETO</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <!--Cabeçalho-->
+    <header id="cabecalho">
+        <h1>BASQUETE NA VEIA</h1>
+    </header>
+
+    <!--Menu de navegação-->
+    <nav id="Menu">
+        <ul>
+            <li>
+        <a href="#" >Home</a>
+            </li>
+            <li>
+        <a href="index3.html" >Referências</a>
+            </li>
+            <li>
+        <a href="#" target="_self">Sobre</a>
+            </li>
+    </ul>
+    </nav>
+
+    <!--Conteudo principal-->
+    <main id="principal">
+        <h2>Informações principais sobre o site!</h2>
+        <p id="p">Aqui é nossa página inicial.Nesse site você aprenderá fundamentos necessarios para melhorar seu basquete!!</p>
+              <ul id="lista"><h3>Aqui você aprenderá fundamentos e desenvolverar seus:</h3></ul>
+                <li><I>ARREMESSO</I></li>
+                <li><I>DRIBLES</I></li>
+                <li><I>FUNDAMENTOS</I></li>
+                <li><I>CROSSOVERS</I></li>
+              
+              <p>Obs:Acesse a página home se deseja evoluir o seu Basquete.</p>
+    </main>
+
+    <!--Referencias
+    <div id="container">
+        <h2 id="referencia">Referências dos autores:</h2>
+            <div class="float-box">Pr.Elizeu Rodrigues</div>
+            <div class="float-box" id="junior">Pr.Junior Trovão</div>
+            <div class="float-box" id="fraga">Pr.Juliano Fraga</div>
+            <div class="float-box" id="osiel">Pr.Osiel Gomes</div> -->
+    </div>
+    <!--Rodapé-->
+    <footer>
+        <p> &copy;2025 Meu site.Todos os meus direitos reservados. </p>
+    </footer>
+
+
+
+    
+</body>
+</html>
