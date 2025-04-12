@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PROJETO 2</title>
+    <link rel="stylesheet" href="/css/style2.css">
+</head>
+<body>
+     <!--Cabeçalho-->
+     <header id="cabecalho">
+        <h1>Referências</h1>
+    </header>
+    <!--menu-->
+    <div id="container">
+        <h2 id="referencia">CANAIS CONTRIBUINTES:</h2>
+            <div class="float-box">96 basketball <br>skills</div>
+            
+            <br>
+            <br><li id="linhas">
+                Aqui viu como melhorar e calibrar seus arremessos.
+              <br>  caso tenha se interessado mais pelo canal acesse o link abaixo para não perder um video<br>
+              <a href="https://www.youtube.com/watch?v=ql3GuK-WwXw">acesse aqui</a>
+            </li>
+            <div class="float-box" id="linhas2">dr</div>
+        
+        
+        
+        
+        
+        
+        
+        </div>
+            
+</body>
+</html>
