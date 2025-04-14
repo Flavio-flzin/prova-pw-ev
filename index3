@@ -11,26 +11,43 @@
      <header id="cabecalho">
         <h1>Referências</h1>
     </header>
-    <!--menu-->
-    <div id="container">
-        <h2 id="referencia">CANAIS CONTRIBUINTES:</h2>
-            <div class="float-box">96 basketball <br>skills</div>
-            
-            <br>
-            <br><li id="linhas">
-                Aqui viu como melhorar e calibrar seus arremessos.
-              <br>  caso tenha se interessado mais pelo canal acesse o link abaixo para não perder um video<br>
-              <a href="https://www.youtube.com/watch?v=ql3GuK-WwXw">acesse aqui</a>
+
+    <nav id="Menu">
+        <ul>
+            <li>
+        <a href="index.html" >Home</a>
             </li>
-            <div class="float-box" id="linhas2">dr</div>
-        
-        
-        
-        
-        
-        
-        
-        </div>
-            
+            <li>
+        <a href="index22.html" >Referências</a>
+            </li>
+            <li>
+        <a href="#" target="_self">Sobre</a>
+            </li>
+    </ul>
+    </nav>
+    <!--menu-->
+    <!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Explorando CSS - Aula Prática</title>
+    <link rel="stylesheet" href="/css/style2.css">
+</head>
+<body>
+
+    <header>
+        <h1>BASKETBALL</h1>
+    </header>
+
+    <section class="background">
+        <p>AAA</p>
+        <div class="bg-example" id = "bg-color">AAA</div> 
+        <div class="bg-example" id = "bg-color">BBB</div>
+        <div class="bg-example" id = "bg-color">CCC</div>
+        <div class="bg-example" id = "bg-color">DDD</div>
+    </section>
+</body>
+</html>
 </body>
 </html>
