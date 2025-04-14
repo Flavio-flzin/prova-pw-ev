@@ -42,11 +42,15 @@
 
     <section class="background">
         <p>AAA</p>
-        <div class="bg-example" id = "bg-color">AAA</div> 
-        <div class="bg-example" id = "bg-color">BBB</div>
-        <div class="bg-example" id = "bg-color">CCC</div>
-        <div class="bg-example" id = "bg-color">DDD</div>
+        <div class="bg-example" id="div-img">AAA</div> 
+        <div class="bg-example" id="div-text">BBB</div>
+        
     </section>
+    <section class="background">
+        <p>AAA</p>
+        <div class="bg-example">AAA</div> 
+        <div class="bg-example">BBB</div>
+    </section>      
 </body>
 </html>
 </body>
