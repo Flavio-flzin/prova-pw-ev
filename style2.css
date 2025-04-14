@@ -49,7 +49,17 @@ p{
     display: flex;
     flex-basis:10px;
 }
+.background{
+    display: flex;
+    flex-direction: row;
 
+}
+#div-img{
+    width: 600px;
+}
+#div-text{
+    width: 2000px;
+}
 /* 🔹 BACKGROUNDS */
 .bg-example {
     width: 400px;
