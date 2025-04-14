@@ -16,10 +16,10 @@
     <nav id="Menu">
         <ul>
             <li>
-        <a href="#" >Home</a>
+        <a href="index.html" >Home</a>
             </li>
             <li>
-        <a href="index3.html" >Referências</a>
+        <a href="index22.html" >Referências</a>
             </li>
             <li>
         <a href="#" target="_self">Sobre</a>
@@ -30,12 +30,16 @@
     <!--Conteudo principal-->
     <main id="principal">
         <h2>Informações principais sobre o site!</h2>
+
+
+        
         <p id="p">Aqui é nossa página inicial.Nesse site você aprenderá fundamentos necessarios para melhorar seu basquete!!</p>
               <ul id="lista"><h3>Aqui você aprenderá fundamentos e desenvolverar seus:</h3></ul>
-                <li><I>ARREMESSO</I></li>
-                <li><I>DRIBLES</I></li>
-                <li><I>FUNDAMENTOS</I></li>
-                <li><I>CROSSOVERS</I></li>
+                <p><I>ARREMESSOS</I></p>
+                <p><i>DRIBLES</i></p>
+                <p><I>FUNDAMENTOS</I></p>
+                <p><I>CROSSOVERS</I></p>
+              
               
               <p>Obs:Acesse a página home se deseja evoluir o seu Basquete.</p>
     </main>
