@@ -18,7 +18,7 @@
         <a href="index.html" >Home</a>
             </li>
             <li>
-        <a href="index22.html" >Referências</a>
+        <a href="index3.html" >Referências</a>
             </li>
             <li>
         <a href="#" target="_self">Sobre</a>
@@ -26,31 +26,52 @@
     </ul>
     </nav>
     <!--menu-->
-    <!DOCTYPE html>
-<html lang="pt">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Explorando CSS - Aula Prática</title>
-    <link rel="stylesheet" href="/css/style2.css">
-</head>
-<body>
-
+   
     <header>
-        <h1>BASKETBALL</h1>
+        <h1> INSPIRAÇÕES DO BASKETBALL</h1>
     </header>
 
     <section class="background">
-        <p>AAA</p>
-        <div class="bg-example" id="div-img">AAA</div> 
-        <div class="bg-example" id="div-text">BBB</div>
+        
+        <div class="bg-example" id="div-img"> </div> 
+        <div class="bg-example" id="div-text">Stephen Curry é uma fonte de inspiração no basquete, especialmente para quem deseja aprimorar seu arremesso. Sua técnica de arremesso, que combina precisão, rapidez e a capacidade de criar seu próprio espaço, redefine o que é possível na quadra. Curry também exemplifica a importância da prática e da dedicação, mostrando que com trabalho árduo e disciplina, é possível alcançar níveis excepcionais de habilidade. Além disso, seu estilo de jogo criativo e confiante encoraja jogadores a serem ousados e a explorar novas maneiras de marcar pontos. Assim, ele se torna uma referência essencial para aspirantes a arremessadores. </div>
         
     </section>
     <section class="background">
-        <p>AAA</p>
-        <div class="bg-example">AAA</div> 
-        <div class="bg-example">BBB</div>
-    </section>      
+
+        <div class="bg-example" id="img-2"></div> 
+        <div class="bg-example" id="text-2">Kyrie Irving é uma grande inspiração para quem quer aprender a driblar no basquete.
+            Seu controle de bola é fora do comum e parece que a bola está presa à mão dele.
+            Ele usa os dribles com inteligência, sempre com propósito e leitura da defesa.
+            É extremamente criativo, combinando crossovers, spins e hesitações com fluidez.
+            Além disso, finaliza com classe, mostrando que o drible é parte de um arsenal completo.
+            Seu estilo é resultado de talento, treino intenso e dedicação aos detalhes.</div>
+    </section> 
+    <section class="background">
+        <div class="bg-example" id="img-3"></div>
+        <div class="bg-example" id="text-3">Ja Morant tem um dos crossovers mais explosivos e imprevisíveis da NBA.
+            Ele combina velocidade insana com mudanças bruscas de direção que desestabilizam qualquer defensor.
+            Seu drible não é só estético, é agressivo e direto ao ponto: abrir caminho pro ataque.
+            Ele usa o crossover pra acelerar, desacelerar e voar rumo à cesta com estilo.
+            Além disso, tem ótimo controle de corpo e timing, o que deixa tudo ainda mais letal.
+            Assistir Ja driblando é ver um raio com a bola nas mãos — pura adrenalina.</div>
+    </section> 
+    
+    <section class="background">
+        <div class="bg-example" id="img-4"></div>
+        <div class="bg-example" id="text-4">Michael Jordan é uma das maiores inspirações do esporte porque elevou o basquete a um nível quase impossível de alcançar.
+            Ele provou que talento por si só não basta — é a obsessão por vencer e a dedicação diária que constroem uma lenda.
+            Com uma ética de trabalho inigualável, Jordan treinava mais do que todos e sempre queria ser o melhor em tudo o que fazia.
+            Em quadra, sua frieza nos momentos decisivos e sua fome de vitória moldaram uma geração inteira de atletas.
+            Fora das quatro linhas, ele virou símbolo de confiança, superação e grandeza, influenciando o mundo muito além do esporte.
+            Ser inspirado por Jordan é entender que excelência é uma escolha feita todos os dias, com atitude e mentalidade inabaláveis.</div>
+
+
+
+
+
+
+    </section>
 </body>
 </html>
 </body>
