@@ -1,3 +1,4 @@
+
 body{
     font-family: Arial, Helvetica, sans-serif;
     margin: 0px;
@@ -56,6 +57,8 @@ p{
 }
 #div-img{
     width: 600px;
+    background-image: url("/image/chu.jpg");
+    background-size: cover
 }
 #div-text{
     width: 2000px;
@@ -66,9 +69,38 @@ p{
     height: 400px;
     display:flex;
     margin: 10px;
-    border: 2px solid #333;
-    justify-content: space-between;
+  
+    justify-content: center;
     flex-direction: column;
+
+}
+#img-2{
+    width: 600px;
+    background-image: url("/image/kye.jpg");
+    background-size: cover;
+
+}
+#text-2{
+    width: 2000px;
+
+}
+#img-3{
+    width: 600px;
+    background-image: url("/image/jai.jpg");
+    background-size: cover;
+
+}
+#text-3{
+    width: 2000px;
+
+}
+#img-4{
+    width: 600px;
+    background-image: url("/image/rei.jpg");
+    background-size: cover;
+}
+#text-4{
+    width: 2000px;
 }
 
 /* Background Color */
