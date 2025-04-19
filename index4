@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PROJETO 2</title>
+    <link rel="stylesheet" href="/css/style4.css">
+</head>
+<body>
+     <!--Cabeçalho-->
+     <header id="cabecalho">
+        <h1>SOBRE</h1>
+    </header>
+
+    <nav id="Menu">
+        <ul>
+            <li>
+        <a href="index.html" >Home</a>
+            </li>
+            <li>
+        <a href="index3.html" >Referências</a>
+            </li>
+            <li>
+        <a href="index4.html">Sobre</a>
+            </li>
+    </ul>
+    </nav>
+    <!--menu-->
+   
+    <header>
+        <h1>SOBRE O SITE</h1>
+    </header>
+    <section class="background">
+        <div class="bg-example">Criamos este site sobre os fundamentos do basquete porque sempre acreditei que entender bem as bases do jogo faz toda a diferença dentro de quadra. A ideia surgiu da minha vontade de compartilhar conhecimento e tornar o aprendizado do basquete mais acessível para todo mundo — desde quem está começando agora até quem já joga há um tempo e quer evoluir. Aqui, eu explico de forma clara e direta os principais fundamentos, como drible, arremesso,crossovers e regras. Tudo com exemplos, dicas práticas e conteúdos fáceis de entender. Meu objetivo é ajudar outras pessoas a desenvolverem suas habilidades, se apaixonarem ainda mais pelo esporte e construírem uma base sólida, porque sei que com dedicação e conhecimento, qualquer um pode crescer no jogo. Esse site é mais do que informação: é um espaço para quem vive, joga e ama o basquete!</div>
+    </section>
+    <img src="/image/rei.jpg" id="img">
+    <h3>REI DO BASKETBALL</h3>
+
+</body>
