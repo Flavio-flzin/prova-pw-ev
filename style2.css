@@ -1,1 +1,201 @@
+body{
+    background-color: rgb(255, 255, 255);
+    display: block;
 
+    
+   }
+header h1{
+    font-size: calc(50px);
+    text-align: center;
+    margin: 100px;
+
+    
+}
+main{
+    background-color: rgb(226, 226, 217);
+    margin: 100px;
+    padding: 100px;
+}
+h1{
+    text-align: left;
+}
+#inicial{
+    font-size: calc(19px);
+    font-family: Verdana, sans-serif;
+}
+img{
+    width: 600px;
+    height: 500px;
+    position: relative;
+    left: 480px;
+    top: 30px;
+}
+.meio li{
+    padding-left: 60px;
+    padding-top: 10px;
+    list-style-type: none;
+    font-size: calc(35px);
+    font-weight: bolder;
+    border-left: 5px solid black;
+    
+}
+.meio h1{
+    text-align: center;
+}
+#drible{
+    font-size: calc(22px);
+    font-family: Arial;
+}
+#drible img{
+    width: 500px;
+    height: 400px;
+    position: relative;
+    top: 100px;
+    left: 470px;
+}
+#ir{
+    position: relative;
+    top: 100px;
+    left: 610px;
+    font-family:Arial ;
+}
+#arremesso{
+    font-size: calc(22px);
+    font-family: Arial;
+}
+#arremesso img{
+    width: 500px;
+    height: 400px;
+    position: relative;
+    top: 100px;
+    left: 470px;
+}
+#cur{
+    position: relative;
+    top: 100px;
+    left: 610px;
+    font-family:Arial ;
+}
+#passe{
+    font-size: calc(22px);
+    font-family: Arial;
+}
+#passe img{
+    width: 600px;
+    height: 400px;
+    position: relative;
+    top: 100px;
+    left: 400px;
+}
+#tat{
+    position: relative;
+    top: 100px;
+    left: 630px;
+    font-family:Arial ;
+}
+#manejo{
+    font-size: calc(22px);
+    font-family: Arial;
+}
+#manejo img{
+    width: 600px;
+    height: 500px;
+    position: relative;
+    top: 100px;
+    left: 430px;
+}
+#kob{
+    position: relative;
+    top: 100px;
+    left: 640px;
+    font-family:Arial ;
+}
+#rebote{
+    font-size: calc(22px);
+    font-family: Arial;
+}
+#rebote img{
+    width: 600px;
+    height: 500px;
+    position: relative;
+    top: 100px;
+    left: 430px;
+}
+#sha{
+    position: relative;
+    top: 100px;
+    left: 630px;
+    font-family:Arial ;
+}
+#bloqueio{
+    font-size: calc(22px);
+    font-family: Arial;
+}
+#bloqueio img{
+    width: 600px;
+    height: 500px;
+    position: relative;
+    top: 100px;
+    left: 420px;
+}
+#toc{
+    position: relative;
+    top: 100px;
+    left: 610px;
+    font-family:Arial ;
+}
+#bandeja{
+    font-size: calc(22px);
+    font-family: Arial;
+}
+#bandeja img{
+    width: 600px;
+    height: 500px;
+    position: relative;
+    top: 100px;
+    left: 400px;
+}
+#band{
+    position: relative;
+    top: 100px;
+    left: 550px;
+    font-family:Arial ;
+}
+#final{
+    list-style-type: none;
+}
+#final H1{
+    text-align: center;
+}
+.quadro-pequeno {
+    width: 600px; /* Largura do quadro */
+    height: 200px; /* Altura do quadro */
+    border: 3px solid black; /* Borda do quadro */
+    padding: 8px; /* Espaçamento interno do texto */
+    margin: 50px;
+    font-family: Arial;
+    font-size: calc(18px);
+    position: relative;
+    left: 345px;
+  }
+  .titulo{
+    text-align: center;
+  }
+  #roda{
+    margin: 0%;
+    padding: 0%;
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+
+  }
+  footer{
+    text-align: center;
+    padding:1em 0;
+    margin: 0px;
+    line-height: 70px;
+    color: rgb(18, 98, 216);
+    background-color: rgb(7, 3, 3);
+    position: relative;
+    top:-100px;
+    
+}
