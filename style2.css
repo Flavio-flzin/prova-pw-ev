@@ -4,6 +4,26 @@ body{
 
     
    }
+#Menu{
+    background-color: rgb(154, 69, 20);
+    padding: 10px;
+    margin: 3px;
+    text-align: center;
+    border: solid 2px;
+}
+ul{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-around ;
+    color: white;
+    text-align: center;
+
+}
+a{
+    text-decoration: none;
+    color: white;
+    
+}
 header h1{
     font-size: calc(50px);
     text-align: center;
