@@ -44,14 +44,8 @@
               <p>Obs:Acesse a página home se deseja evoluir o seu Basquete.</p>
     </main>
 
-    <!--Referencias
-    <div id="container">
-        <h2 id="referencia">Referências dos autores:</h2>
-            <div class="float-box">Pr.Elizeu Rodrigues</div>
-            <div class="float-box" id="junior">Pr.Junior Trovão</div>
-            <div class="float-box" id="fraga">Pr.Juliano Fraga</div>
-            <div class="float-box" id="osiel">Pr.Osiel Gomes</div> -->
-    </div>
+    
+
     <!--Rodapé-->
     <footer>
         <p> &copy;2025 Meu site.Todos os meus direitos reservados. </p>
