@@ -78,3 +78,9 @@ nav a:hover{
 .font-size {
     font-size: 24px;
 }
+footer{
+    text-align: solid center,text;
+    padding: 1em 0;
+    color: rgb(252, 235, 0);
+    background-color: rgb(7, 3, 3);
+}
