@@ -4,7 +4,7 @@ body{
     margin: 0px;
     padding: 0%;
     text-align: center;
-    background-image: url("/image/fff.jpg");
+    background-image: url("/img/fff.jpg.jpg");
     background-size: cover;
 }
 #cabecalho{
@@ -57,7 +57,7 @@ p{
 }
 #div-img{
     width: 600px;
-    background-image: url("/image/chu.jpg");
+    background-image: url("/img/chu.jpg.jpg");
     background-size: cover
 }
 #div-text{
@@ -76,7 +76,7 @@ p{
 }
 #img-2{
     width: 600px;
-    background-image: url("/image/kye.jpg");
+    background-image: url("/img/kye.jpg.jpg");
     background-size: cover;
 
 }
@@ -86,7 +86,7 @@ p{
 }
 #img-3{
     width: 600px;
-    background-image: url("/image/jai.jpg");
+    background-image: url("/img/jai.jpg.jpg");
     background-size: cover;
 
 }
@@ -96,7 +96,7 @@ p{
 }
 #img-4{
     width: 600px;
-    background-image: url("/image/rei.jpg");
+    background-image: url("/img/rei.jpg.jpg");
     background-size: cover;
 }
 #text-4{
@@ -170,8 +170,13 @@ p{
     text-transform: uppercase;
 }
 footer{
+    display: flex;
+    ;flex-direction: column;
+    align-items: center;
     text-align: solid center,text;
     padding: 1em 0;
     color: rgb(252, 235, 0);
     background-color: rgb(7, 3, 3);
+    position:static;
+    
 }
